@@ -54,7 +54,7 @@
                             <div class="col-3">
                                 <div class="btn-content mt-3">
                                     <span class="shine"></span>
-                                    <a href="files/term1dates.docx" class="DownloadBtn">DOWNLOAD</a>
+                                    <a href="files/2025dates.docx" class="DownloadBtn">DOWNLOAD</a>
                                 </div>
                             </div>
                         </div>
